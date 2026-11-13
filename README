@@ -1,0 +1,46 @@
+# Pharmacy Inventory Management System
+
+## Project Overview
+The Pharmacy Inventory Management System is a Python-based application designed to manage pharmacy operations efficiently. It helps administrators maintain medicine records, monitor stock levels, manage suppliers, track expiry dates, and record sales and purchases.
+
+## Key Features
+
+- User Registration and Login
+- Admin Authentication and Permissions
+- Medicine Management (Add, View, Update, Delete)
+- Batch Management
+- Automatic Expiry Notifications
+- Low Stock Alerts
+- Stock Summary
+- Supplier Management
+- Purchase Management
+- Medicine Sales and Billing
+- Sales History
+- Purchase History
+- Inventory Reports
+- Activity Log
+
+## Technologies Used
+
+- Python
+- SQLite
+- CSV
+
+## Database
+The application uses SQLite to store medicine details, batch information, supplier records, purchases, sales, and other inventory data.
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open the project folder in Visual Studio Code.
+3. Run the following command:
+
+   python main.py
+
+4. Follow the application menu to access the available features.
+
+## Project Purpose
+The main objective of this project is to simplify pharmacy inventory management, reduce manual work, improve stock monitoring, and help prevent losses caused by expired medicines.
+
+## Developed By
+Misty Manoj
